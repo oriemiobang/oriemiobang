@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Oriemi Obang Oriemi 
 - 👀 I’m interested in listening to music, solving problems, anything related to tech
-- 🌱 I’m currently learning flutter, DSA, javascript...
 - 💞️ I’m looking to collaborate on work involving mobile app, Web app, Web development...
 - 📫 You can contact me at oriemiobango@gmail.com 
 
