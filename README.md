@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oriemiobang" alt="oriemiobang" /></a> </p>
 
 
-- 🔭 I’m currently working on **PNG a number guessing game**
+
 
 - 👨‍💻 All of my projects are available at [https://oriemioriemi.netlify.app/](https://oriemioriemi.netlify.app/)
 
